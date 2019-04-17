@@ -1,0 +1,233 @@
+/* 版心 哥求你了  记得来改 */
+
+.w {
+    width: 915px;
+    margin: 0 auto;
+}
+.header {
+	height: 56px;
+	line-height: 56px;
+
+}
+.header_l i {
+	font-size: 12px;
+	color: #ccc;
+}
+.header_r li {
+	float: left;
+	font-size: 12px;
+	line-height: 56px;
+	margin-left: 31px;
+
+}
+.tu {
+	position: relative;
+	/*height: 351px;*/
+	/*width: 1430px;*/
+	/*margin: 0 auto;*/
+}
+.tu img {
+	width: 100%;
+}
+
+.tu	.left {
+	position: absolute;
+	height: 40px;
+	width: 40px;
+	top: 50%;
+	left: 54px;
+	background-color: rgba(0,0,0,.3);
+	border-radius: 50%;
+	text-align: center;
+	line-height: 40px;
+	color: #fff;
+	font-family: "宋体";
+}
+.tu .right {
+	position: absolute;
+	height: 40px;
+	width: 40px;
+	top: 50%;
+	right: 54px;
+	background-color: rgba(0,0,0,.3);
+	border-radius: 50%;
+	text-align: center;
+	line-height: 40px;
+	color: #fff;
+	font-family: "宋体";
+}
+.put {
+	position: absolute;
+	width: 798px;
+	height: 55px;
+	background-color: #fff;
+	bottom: 22px;
+	left: 50%;
+	margin-left:-399px;
+}
+.put .beijin {
+	float: left;
+	width: 226px;
+	height: 31px;
+	border-right: 1px solid #ccc;
+	margin: 15px;
+	line-height: 31px;
+	text-align: center;
+
+}
+
+.beijin {
+	background: url(../images/pic1.png) no-repeat 20px 8px;
+}
+.beijin i {
+	float: left;
+	margin-left: 40px;
+}
+.day {
+	float: left;
+	width: 265px;
+	line-height: 31px;
+	margin: 15px;
+	font-size: 12px;
+	background: url(../images/pic1.png) no-repeat 0px 8px;
+}
+.day i {
+	float: left;
+	margin-left: 20px;
+}
+.btn {
+	float: right;
+	width: 144px;
+	height: 47px;
+	background-color: #ffd317;
+	margin-top: 5px;
+	margin-right: 5px;
+	line-height: 47px;
+	text-align: center;
+}
+.btn a {
+	display: inline-block;
+	width: 100%;
+}
+.intro_nav {
+	margin-top: 30px;
+	text-align: center;
+	letter-spacing: 10px;
+}
+.intro_nav p {
+	margin: 20px 0 30px 0;
+	letter-spacing: 5px;
+}
+.intro_pic {
+	margin-top: 20px;
+
+}
+.intro_pic li {
+	position: relative;
+	width: 300px;
+	float: left;
+	margin-bottom: 15px;
+	margin-left: 5px;
+
+}
+.intro_pic .picture {
+	position: absolute;
+	right: 20px;
+	bottom: 50px;
+}
+.intro_pic .eng {
+	font-size: 12px;
+	margin: 5px 0;
+
+}
+.intro_pic .zi {
+	font-size: 12px;
+	color: #ccc;
+	margin: 5px 0;
+}
+.intro_pic em {
+	color: #c81623;
+}
+.qiqi {
+	display: block;
+	height: 35px;
+	width: 160px;
+	text-align: center;
+	line-height: 35px;
+	background-color: #ffde51;
+	font-size: 12px;
+	margin:20px auto;
+}
+.help {
+	height: 180px;
+	background-color: #ccc;
+	margin-top: 20px;
+}
+.help li {
+	float: left;
+	height: 100px;
+	width: 100px;
+	font-size:12px;
+	margin-right: 150px;
+	margin-top: 30px;
+	
+}
+.help .wu {
+	margin-right: 0;
+}
+
+.help .bao {
+    color: #999;
+}
+.help .fang {
+	padding-left: 15px;
+}
+.thing ul {
+	/*width:1200px;*/
+}
+.thing li {
+	float: left;
+	margin-right: 5px;
+}
+.thing h2 {
+    text-align: center;
+    margin: 30px 0;
+    letter-spacing: 10px;
+}
+.thing .gy {
+	font-size: 12px;
+	margin: 10px 0;
+}
+.thing .bg {
+	font-size: 12px;
+	color: #999;
+	margin-bottom:40px;
+}
+.footer {
+	background-color: #f2f2f2;
+}
+.footer dl {
+    float: left;
+    margin-right: 170px;
+    margin-top: 20px;
+}
+.footer dd {
+	font-size: 12px;
+	color: #999;
+	margin: 5px 0;
+}
+.pi {
+	margin-top: 20px;
+}
+.xia {
+    float: right;
+    font-size: 12px;
+}
+.news {
+	height: 49px;
+	border-top: 1px solid #ccc;
+	margin-top: 50px;
+	font-size: 12px;
+	line-height: 49px;
+
+}

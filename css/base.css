@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+input,
+button,
+textarea {
+    outline: none;
+}
+
+img {
+    /* ie6去除图片边框 */
+    border: none;
+    vertical-align: middle;
+}
+em,
+i {
+    font-style: normal;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.clearfix:after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
